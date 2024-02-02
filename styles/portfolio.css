@@ -183,12 +183,25 @@ footer .social-links a:hover {
     font-size: 44px;
     line-height: 2;
   }
+
+  .content h1 {
+    font-size: 44px;
+    line-height: 48px;
+  }
+
+  .content-container {
+    padding: 5px 20px;
+  }
   h2 {
     font-size: 44px;
   }
 
   h3 {
     font-size: 26px;
+  }
+
+  footer {
+    margin-top: 20px;
   }
   .content {
     text-align: center;
